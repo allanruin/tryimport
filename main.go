@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println("hello")
-	// Afunc()
-	Bfunc()
+	// A.Afunc()
+	B.Bfunc()
 }
